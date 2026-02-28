@@ -12,28 +12,6 @@
       "services": []
     },
     {
-      "id": "a6cf",
-      "name": "Informática ",
-      "budget": "5000",
-      "category": {
-        "id": "2",
-        "name": "Desenvolvimento"
-      },
-      "cost": 0,
-      "services": []
-    },
-    {
-      "id": "3956",
-      "name": "Informática ",
-      "budget": "4000",
-      "category": {
-        "id": "2",
-        "name": "Desenvolvimento"
-      },
-      "cost": 0,
-      "services": []
-    },
-    {
       "id": "d8c4",
       "name": "Meu projeto 3",
       "budget": "15000",
@@ -62,6 +40,17 @@
       "category": {
         "id": "1",
         "name": "Infra"
+      },
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "7d4d",
+      "name": "sono",
+      "budget": "150",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
       },
       "cost": 0,
       "services": []
