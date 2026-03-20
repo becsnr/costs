@@ -3,7 +3,7 @@
     {
       "id": "602e",
       "name": "Informática ",
-      "budget": "10499",
+      "budget": "20650",
       "category": {
         "id": "3",
         "name": "Design"
@@ -14,10 +14,21 @@
     {
       "id": "def4",
       "name": "Spotify",
-      "budget": "20850",
+      "budget": "20880",
       "category": {
         "id": "4",
         "name": "Planejamento"
+      },
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "7635",
+      "name": "One Piece - Luffy",
+      "budget": "52530",
+      "category": {
+        "id": "1",
+        "name": "Infra"
       },
       "cost": 0,
       "services": []
