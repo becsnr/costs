@@ -30,8 +30,15 @@
         "id": "1",
         "name": "Infra"
       },
-      "cost": 0,
-      "services": []
+      "cost": 98,
+      "services": [
+        {
+          "name": "teste 4",
+          "cost": "98",
+          "description": "agora vai",
+          "id": "b4af288d-4945-4bc4-9311-0b5522d70379"
+        }
+      ]
     }
   ],
   "categories": [
